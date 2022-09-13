@@ -2,7 +2,7 @@
 https://img.shields.io/github/followers/fab3F?label=Folgen%20%40fab3F&style=social
 
 
-[![`[YouTube]`](https://img.shields.io/badge/-YouTube_fab3F-ff0000?logo=youtube&logoColor=white&labelColor=630000)](https://fab3F.github.io/link/youtube)
+[![`[YouTube]`](https://img.shields.io/badge/-YouTube_fab3F-ff0000?logo=youtube&logoColor=white&labelColor=cf2b2b)](https://fab3F.github.io/link/youtube)
 [![`[Twitter]`](https://img.shields.io/badge/-Twitter_@fab3F__official-1DA1F2?logo=twitter&logoColor=white)](https://fab3F.github.io/link/twitter) 
 [![`[Discord]`](https://img.shields.io/discord/824334386786074634.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://fab3F.github.io/link/discord)
 [![`[Twitch]`](https://img.shields.io/badge/-Twitch_@fab3F-6441a5?logo=twitch&logoColor=white)](https://fab3F.github.io/link/twitch)

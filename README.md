@@ -9,9 +9,8 @@ https://img.shields.io/github/followers/fab3F?label=Folgen%20%40fab3F&style=soci
 
 
 [![`[YouTube]`](https://img.shields.io/badge/-fab3F-ff0000?logo=youtube&logoColor=white)](https://fab3F.github.io/link/youtube)
-
-[![`[Twitter]`](https://img.shields.io/badge/-@fab3F_official_-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/k0nze_) 
-[![`[Discord]`](https://img.shields.io/discord/713121297407672380.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.k0nze.gg)
+[![`[Twitter]`](https://img.shields.io/badge/-@fab3F-1DA1F2?logo=twitter&logoColor=white)](https://fab3F.github.io/link/twitter) 
+[![`[Discord]`](https://img.shields.io/discord/824334386786074634.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://fab3F.github.io/link/discord)
 [![`[Patreon]`](https://img.shields.io/badge/-Patreon-f96854?logo=patreon&logoColor=white)](https://patreon.com/k0nze)
 [![`[LinkedIn]`](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/konstantin-luebeck/)
 

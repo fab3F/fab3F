@@ -12,7 +12,7 @@ https://img.shields.io/github/followers/fab3F?label=Folgen%20%40fab3F&style=soci
 # Welcome to my GitHub
 
 ## Hi there I am fab3F.
-Go to my GitHub Page https://fab3F.github.io or to the EasyFlick Homepage https://easyflick.us.to and join the [Discord Server](https://fab3f.github.io/link/discord)
+Go to my GitHub Page [fab3F.github.io](https://fab3F.github.io) or to the EasyFlick Homepage [easyflick.us.to](https://easyflick.us.to) and join the [Discord Server](https://fab3f.github.io/link/discord)
 
 
 # EasyFlick

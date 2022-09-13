@@ -12,7 +12,7 @@ https://img.shields.io/github/followers/fab3F?label=Folgen%20%40fab3F&style=soci
 # Welcome to my GitHub
 
 ## Hi there I am fab3F.
-Go to my GitHub Page https://fab3F.github.io or to the EasyFlick Homepage https://easyflick.us.to and join the [Discord Server](https://discord.gg/dkpKAdvarP)
+Go to my GitHub Page https://fab3F.github.io or to the EasyFlick Homepage https://easyflick.us.to and join the [Discord Server](https://fab3f.github.io/link/discord)
 
 
 # EasyFlick
@@ -34,7 +34,7 @@ EasyFlick ist ein Netzwerk mit vielen **verschiedenen Möglichkeiten** in Richtu
 - und vieles mehr...
 ```
 
-### Der EasyFlick [Discord](https://discord.gg/dkpKAdvarP)
+### Der EasyFlick [Discord](https://fab3f.github.io/link/discord)
 
 ```markdown
 Wir haben natürlich auch einen Discord, deswegen kommt gerne auf den Discord. 

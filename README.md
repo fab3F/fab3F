@@ -8,7 +8,7 @@ https://img.shields.io/twitch/status/fab3F?style=social
 https://img.shields.io/github/followers/fab3F?label=Folgen%20%40fab3F&style=social
 
 
-[![`[YouTube]`](https://img.shields.io/badge/-k0nze%20builds-ff0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3_SywgWxpEBIoKawK2E3MA) 
+[![`[YouTube]`](https://img.shields.io/badge/-fab3F-ff0000?logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UC3_SywgWxpEBIoKawK2E3MA) ](https://www.youtube.com/channel/UCbxqRsSFSco8bv-Kcp7cbZQ?sub_confirmation=1))
 [![`[Twitter]`](https://img.shields.io/badge/-@k0nze_-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/k0nze_) 
 [![`[Discord]`](https://img.shields.io/discord/713121297407672380.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.k0nze.gg)
 [![`[Patreon]`](https://img.shields.io/badge/-Patreon-f96854?logo=patreon&logoColor=white)](https://patreon.com/k0nze)

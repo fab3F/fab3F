@@ -38,6 +38,10 @@ Dort gibt es viele nette Menschen und eure Fragen werden hier am schnellsten bea
 - und natürlich einen schnellen Support!
 ```
 
+<a href="https://discord.gg/dkpKAdvarP">
+         <img alt="EasyFlick Discord" src="https://discord.com/api/guilds/824334386786074634/widget.png?style=banner2">
+</a>
+
 ### Die EasyFlick [Homepage](https://easyflick.us.to)
 
 ```markdown

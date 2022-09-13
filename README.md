@@ -6,7 +6,7 @@ https://img.shields.io/github/followers/fab3F?label=Folgen%20%40fab3F&style=soci
 [![`[Twitter]`](https://img.shields.io/badge/-Twitter_@fab3F__official-1DA1F2?logo=twitter&logoColor=white)](https://fab3F.github.io/link/twitter) 
 [![`[Discord]`](https://img.shields.io/discord/824334386786074634.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://fab3F.github.io/link/discord)
 [![`[Twitch]`](https://img.shields.io/badge/-Twitch_@fab3F-6441a5?logo=twitch&logoColor=white)](https://fab3F.github.io/link/twitch)
-[![`[LinkedIn]`](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/konstantin-luebeck/)
+[![`[GitHub]`](https://img.shields.io/badge/GitHub_fab3F-171515?style=flat&logo=github&labelColor=171515)](https://fab3F.github.io/link/github)
 
 
 # Welcome to my GitHub

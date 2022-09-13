@@ -1,10 +1,4 @@
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCbxqRsSFSco8bv-Kcp7cbZQ?label=Abonnieren)](https://www.youtube.com/channel/UCbxqRsSFSco8bv-Kcp7cbZQ?sub_confirmation=1)
 
-[![`[YouTube]`](https://img.shields.io/youtube/channel/subscribers/UCbxqRsSFSco8bv-Kcp7cbZQ?label=Abonnieren)](https://www.youtube.com/channel/UCbxqRsSFSco8bv-Kcp7cbZQ?sub_confirmation=1)
-
-
-https://img.shields.io/twitter/follow/fab3F_official?label=Folgen%20%40fab3F&style=social
-https://img.shields.io/twitch/status/fab3F?style=social
 https://img.shields.io/github/followers/fab3F?label=Folgen%20%40fab3F&style=social
 
 
@@ -53,7 +47,7 @@ Dort gibt es viele nette Menschen und eure Fragen werden hier am schnellsten bea
 - und natürlich einen schnellen Support!
 ```
 
-<a href="https://discord.gg/dkpKAdvarP">
+<a href="https://fab3F.github.io/link/discord">
          <img alt="EasyFlick Discord" src="https://discord.com/api/guilds/824334386786074634/widget.png?style=banner2">
 </a>
 
@@ -65,4 +59,4 @@ Auf der Homepage gibt es die ganzen Downloads zu den besagten Projekten.
 
 ## Support oder Kontakt
 
-Du hast ein Problem mit einem unserer Dienste oder möchtest eine Frage loswerden? Dann komm doch gerne auf den [EasyFlick Discord](https://discord.gg/dkpKAdvarP)! Dort kannst du im extra dafür angelegten _Support-Channel_ nachfragen. Oder du schreibst eine E-Mail an **support@help.info.gf**
+Du hast ein Problem mit einem unserer Dienste oder möchtest eine Frage loswerden? Dann komm doch gerne auf den [EasyFlick Discord](https://fab3f.github.io/link/discord)! Dort kannst du im extra dafür angelegten _Support-Channel_ nachfragen. Oder du schreibst eine E-Mail an **support@help.info.gf**

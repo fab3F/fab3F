@@ -1,5 +1,11 @@
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCbxqRsSFSco8bv-Kcp7cbZQ?label=Abonnieren)](https://www.youtube.com/channel/UCbxqRsSFSco8bv-Kcp7cbZQ?sub_confirmation=1)
 
+
+https://img.shields.io/twitter/follow/fab3F_official?label=Folgen%20%40fab3F&style=social
+https://img.shields.io/twitch/status/fab3F?style=social
+https://img.shields.io/github/followers/fab3F?label=Folgen%20%40fab3F&style=social
+
+
 # Welcome to my GitHub
 
 ## Hi there I am fab3F.
